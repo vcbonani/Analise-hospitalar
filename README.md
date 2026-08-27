@@ -1,6 +1,6 @@
 # 🏥 Análise de Dados Hospitalares — Pacientes e Leitos
 
-Projeto desenvolvido durante o curso **[Projeto Análise de Dados: Organização, tratamento e visualização](https://www.alura.com.br/)** da **Alura**, com o objetivo de analisar, tratar e visualizar dados hospitalares relacionados a pacientes e ocupação de leitos.
+Projeto desenvolvido durante o curso **Projeto Análise de Dados: Organização, tratamento e visualização** da **Alura**, com o objetivo de analisar, tratar e visualizar dados hospitalares relacionados a pacientes e ocupação de leitos.
 
 O fluxo do projeto segue a lógica: **dados brutos → tratamento em Python (Jupyter) → arquivos tratados → dashboard interativo no Power BI**.
 
